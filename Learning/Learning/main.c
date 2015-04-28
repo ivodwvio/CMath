@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include "lessons.h"
 
 main()
 {
-	printf("Hi World!\n");
+	program6();
 }
